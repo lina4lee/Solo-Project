@@ -10,4 +10,5 @@ export default function App() {
       <MainContainer />
     </div>
   // return <h1>Hello fridge!</h1>
-  )}
+  )
+};
