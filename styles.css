@@ -39,6 +39,7 @@ body {
     background-color:aliceblue
 }
 
-#delete {
-  /* align to right */
+#deleteAll {
+  padding-top: 5px;
+  margin-top: 10px;
 }
